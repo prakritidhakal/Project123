@@ -1,0 +1,26 @@
+@charset "utf 8";
+*{margin:0; padding:0;}
+.bg1
+{
+	background:#341e6a;
+	color:#fff;
+}
+.bg2
+{
+	background: #b13830;
+	color:#fff;
+}
+.footer
+{
+	background:#f79422;
+	min-height: 30px;
+}
+.container-fluid
+{
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.navbar-default
+{
+	margin-bottom: 0px;
+}
